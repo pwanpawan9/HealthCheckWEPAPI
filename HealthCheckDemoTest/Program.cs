@@ -53,7 +53,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-app.UseHealthChecks("/HealthCheckz", new HealthCheckOptions
+app.UseHealthChecks("/HealthCheck", new HealthCheckOptions
 {
     ResponseWriter = async (context, report) =>
     {
