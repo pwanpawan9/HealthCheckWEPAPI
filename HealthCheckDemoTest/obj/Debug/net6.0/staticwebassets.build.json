@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "V+2tv3UCrYROVeBKD5eHV6CqoD/8WoYZEoKERupMQl8=",
+  "Source": "HealthCheckDemoTest",
+  "BasePath": "_content/HealthCheckDemoTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
